@@ -1,4 +1,4 @@
-# ex-service-template
+# SamkenXStream 
 
 A simple service template showing off some of the features of the execution team's [ex](https://github.com/circleci/ex) library.
 
