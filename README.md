@@ -9,4 +9,4 @@
 
 ## Usage
 
-   github.com/circleci/samkenzstream_turnkey-triumph-326606_SamKrnXStream.
+   github.com/circleci/samkenxstream_turnkey-triumph-326606_SamKenXStream.
