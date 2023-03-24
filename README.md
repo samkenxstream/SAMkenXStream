@@ -11,19 +11,19 @@
                                        
 
 # SamkenXStream 
-    SAMKENX Execution formula (System Algorithmic Mechanism Kernel Equation     Niche X = algebraic variable ).
+    SAMKENX Execution formula (System Algorithmic Mechanism Kernel Equation Niche X = algebraic variable ).
 
 
-  A Bug-free-winner infrastracture automation  policy task role builtin implementations roles:
+  A Bug-free-winner infrastracture automation  policy task role builtin implementations roles,
 
-        `APIs call and data synchronizations`
+       { `APIs call and data synchronizations`
         `generates AI and Bot transformer and hierarchy`
         `Continuous Integration`
         `workflows builds , production and deployment`
         `resolver of conflicts`
         `debugger of IP policy`
         `infastructure security auditing process` 
-        `Advance Security Formula features enhancement`
+        `Advance Security Formula features enhancement`}
 
   
 # Business:
