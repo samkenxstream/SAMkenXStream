@@ -13,29 +13,32 @@
 # SamkenXStream 
     SAMKENX Execution formula (System Algorithmic Mechanism Kernel Equation     Niche X = algebraic variable ).
 
-# A Bug-free-winner infrastracture automation  policy task role builtin implementations roles:
+ A Bug-free-winner infrastracture automation  policy task role builtin implementations roles:
 
-# `APIs call and data synchronizations
-# `generates AI and Bot transformer andbhierarchy
-# `Continuous Integration`
-# `workflows builds , production and deployment`
-# `resolver of conflicts`
-# `debugger of IP policy`
-# `infastructure security auditing process 
-# `Advance Security Formula features enhancement`
+        `APIs call and data synchronizations`
+        `generates AI and Bot transformer and hierarchy`
+        `Continuous Integration`
+        `workflows builds , production and deployment`
+        `resolver of conflicts`
+        `debugger of IP policy`
+        `infastructure security auditing process` 
+        `Advance Security Formula features enhancement`
 
   
 # Business:
+
 SamKen X Salon  
 
 # Organization: SamKenX Hub Community
   
   Vision to build a true opensource free software for overlook individuals and help internet crimes victims.Any builds and produce with in the hub is prohibits to used for profits purposes.
   
-  This is an alpha state mode.If interested to be a member to contribute and willing to sponsor or be a mentor for guidance,I will be thankful.Just email me: orbit.hierarchy@gmail.com
+  This is an alpha state mode.If interested to be a member to contribute and willing to sponsor or be a mentor for guidance,I will be thankful.
+  
+Just email me: orbit.hierarchy@gmail.com
 
 
 
-## Git
+# Git
 
    https://samkenxstream.github.io/SamKenXStream.json
