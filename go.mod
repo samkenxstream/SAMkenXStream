@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/alecthomas/kong v0.7.1
-	github.com/circleci/ex v1.0.6255-d3fcb7d
+	github.com/circleci/ex v1.0.6305-93c1ffb
 	github.com/gin-gonic/gin v1.9.0
 	github.com/google/uuid v1.3.0
 	golang.org/x/sync v0.1.0
