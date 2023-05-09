@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/alecthomas/kong v0.7.1
-	github.com/circleci/ex v1.0.6517-e9016df
+	github.com/circleci/ex v1.0.6659-aee4504
 	github.com/gin-gonic/gin v1.9.0
 	github.com/google/uuid v1.3.0
 	golang.org/x/sync v0.2.0
@@ -56,8 +56,8 @@ require (
 	go.opentelemetry.io/otel/trace v1.10.0 // indirect
 	golang.org/x/arch v0.0.0-20210923205945-b76863e36670 // indirect
 	golang.org/x/crypto v0.6.0 // indirect
-	golang.org/x/net v0.9.0 // indirect
-	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/sys v0.8.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/alexcesaro/statsd.v2 v2.0.0 // indirect
