@@ -10,7 +10,7 @@
 
                                        
 
-# SamkenXStream 
+# SAMkenXStream 
     SAMKENX Execution formula (System Algorithmic Mechanism Kernel Equation Niche X = algebraic variable ).
 
 
@@ -28,9 +28,9 @@
   
 # Business:
 
-SamKen X Salon  
+SAMken X Salon  
 
-# Organization: SamKenX Hub Community
+# Organization: SAMkenXEcosystem
   
   Vision to build a true opensource free software for overlook individuals and help internet crimes victims.Any builds and produce with in the hub is prohibits to used for profits purposes.
   
@@ -42,4 +42,4 @@ Just email me: orbit.hierarchy@gmail.com
 
 # Git
 
-   https://samkenxstream.github.io/SamKenXStream.json
+   https://samkenxstream.github.io/google/dev/samkenx/apis/samkenx-ecosystem/SAMkenX.json
